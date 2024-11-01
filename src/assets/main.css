@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.85);
+}
+
+html *
+{
+  font-family: "Roboto", system-ui;
+  font-weight: 400;
+  color: white;
+}
